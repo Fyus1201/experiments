@@ -2,35 +2,63 @@
 
     部分项目图片展示
 
+# 移动政企
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ydzq/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ydzq/2.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ydzq/3.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ydzq/4.png) 
+
+# 智慧消防
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/intelligentFireSystem/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/intelligentFireSystem/4.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/intelligentFireSystem/6.png) 
+
+# 无面千面
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/web/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/web/7.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/miniapp/IMG_5995.PNG) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/miniapp/IMG_5996.PNG) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/miniapp/IMG_5999.PNG) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/miniapp/IMG_6001.PNG) 
+
+# 营销工具
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/MarketingTool/home.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/MarketingTool/3.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/MarketingTool/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/MarketingTool/2.png) 
+
+# 时光家纺ERP
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ERP/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ERP/2.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ERP/3.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/ERP/4.png) 
+
 # 超算平台
 
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/IVA/1.png) 
+![image](https://github.com/Fyus1201/experiments/blob/master/image/IVA/1.png) 
 
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/IVA/3.png) 
-
-# iOS音乐播放器
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov3.gif) 
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov4.gif) 
-
-# iOS音乐播放器
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov3.gif) 
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov4.gif) 
-
-# iOS音乐播放器
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov3.gif) 
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov4.gif) 
-
-# iOS音乐播放器
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov3.gif) 
-
-![image](https://github.com/Fyus1201/nuomi/blob/master/image/mov4.gif) 
+![image](https://github.com/Fyus1201/experiments/blob/master/image/IVA/3.png) 
 
 # iOS音乐播放器
 
