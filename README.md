@@ -2,6 +2,24 @@
 
     部分项目效果展示
 
+# 电子商城（Web/微信小程序）
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy/2.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy/3.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy/4.png) 
+
+# 运营后台（Web）
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy-mgr/3.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy-mgr/1.png) 
+
+![image](https://github.com/Fyus1201/experiments/blob/master/image/zpzy-mgr/2.png) 
+
 # 营销工具（微信小程序）
 
 ![image](https://github.com/Fyus1201/experiments/blob/master/image/MarketingTool/home.png) 
