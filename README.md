@@ -52,7 +52,7 @@
 
 ![image](https://github.com/Fyus1201/experiments/blob/master/image/facelessai/miniapp/IMG_6001.PNG) 
 
-# 移动政企（Web）
+# 大屏（Web）
 
 ![image](https://github.com/Fyus1201/experiments/blob/master/image/ydzq/1.png) 
 
